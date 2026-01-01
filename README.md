@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-youremail@example.com-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/yourprofile/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://www.instagram.com/qosimov._62/">
     <img src="https://img.shields.io/badge/Instagram-yourprofile-111111?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
