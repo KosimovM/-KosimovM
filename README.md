@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Qosimov%20Yusuf&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20in%20Progress&descAlignY=55" />
 </p>
 
-<h1 align="center">Qosimov Yusuf</h1>
 
 <p align="center">
   Talaba & Frontend Developer from Tajikistan<br/>
