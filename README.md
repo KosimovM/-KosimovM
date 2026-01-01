@@ -9,7 +9,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-youremail@example.com-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/%D0%BC-qosimov-7bb6013a3/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/qosimov._62/">
