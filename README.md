@@ -1,7 +1,7 @@
+<!-- ====== BANNER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Qosimov%20Yusuf&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20in%20Progress&descAlignY=55" />
 </p>
-
 
 <p align="center">
   Talaba & Frontend Developer from Tajikistan<br/>
@@ -87,8 +87,9 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 - Small interactive apps with React & Next.js  
 - Writing clean, maintainable, and scalable frontend code  
 
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KosimovM&show_icons=true&theme=radical&hide_border=true" />
 </p>
@@ -100,8 +101,6 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 ---
 
 <p align="center">
-  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub>
-</p>
-
+  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub><br/>
   <sub>Focused on frontend today — building the future step by step.</sub>
 </p>
