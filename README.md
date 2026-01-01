@@ -87,19 +87,21 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 - Small interactive apps with React & Next.js  
 - Writing clean, maintainable, and scalable frontend code  
 
----
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KosimovM&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KosimovM&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KosimovM&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KosimovM&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
+  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub>
+</p>
+
   <sub>Focused on frontend today — building the future step by step.</sub>
 </p>
