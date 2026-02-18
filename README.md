@@ -75,13 +75,6 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github" />
-</p>
-
----
-
 ## 📌 Projects & Learning
 - Personal websites and UI components  
 - Small interactive apps with React & Next.js  
