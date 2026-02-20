@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Qosimov%20Yusufjon&desc=Frontend%20Developer" />
 </p>
 
 <p align="center">
