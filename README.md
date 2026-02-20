@@ -9,13 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:qosimov.qosimovmm622@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/м-qosimov-7bb6013a3/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/YOUR-TELEGRAM" target="_blank">
+  <a href="https://www.instagram.com/qosimov._62/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E1306C?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/Qosimovy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Profile-0088CC?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
