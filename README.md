@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Qosimov%20Yusufjon&desc=Frontend%20Enginer" />
 </p>
 
-
 <p align="center">
   Talaba & Frontend Enginer from Tajikistan<br/>
   HTML • CSS • JavaScript • TypeScript • React • Next.js
