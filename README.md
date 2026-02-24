@@ -63,7 +63,7 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 ---
 
 ## 📌 Projects & Learning
-- Personal websites and UI components  
+- Personal websites and UI  components  
 - Small interactive apps with React & Next.js  
 - Writing clean, maintainable, and scalable frontend code  
 
