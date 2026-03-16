@@ -1,31 +1,31 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4facfe,100:00f2fe&text=Qosimov%20Yusufjon&desc=Frontend%20Developer&fontSize=45&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4facfe,100:00f2fe&text=Qosimov%20Yusufjon&desc=TypeScript%20Frontend%20Developer&fontSize=45&fontAlignY=40"/>
 </p>
 
-<h3 align="center">Frontend Developer from Tajikistan 🇹🇯</h3>
+<h3 align="center">TypeScript & Frontend Developer from Tajikistan 🇹🇯</h3>
 
 <p align="center">
-Building modern web interfaces with clean code and great user experience.
+Building modern, type-safe web apps with React, Next.js, and clean code principles.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Student focused on **Frontend Development**
-- 💻 Creating modern web apps using **React & TypeScript**
-- 🚀 Passionate about **UI/UX and clean code**
-- 🌱 Always learning new frontend technologies
+- 🎓 Student specializing in **TypeScript & Frontend Development**
+- 💻 Creating scalable web applications with **React & Next.js**
+- 🧩 Passionate about **type safety, clean code, and UI/UX**
+- 🌱 Always improving **TypeScript patterns and best practices**
 
 ---
 
 # 🧠 Currently Learning
 
-- ⚛️ React ecosystem  
-- ▲ Next.js  
-- 🧩 Advanced JavaScript & TypeScript  
-- 🎨 Modern UI / UX practices  
+- ⚛️ Advanced **React + Next.js**
+- 🧩 Deep TypeScript: generics, utility types, and strict typing
+- 🎨 Modern UI/UX & responsive design
+- 🛠 State management and scalable architecture
 
 ---
 
@@ -57,18 +57,9 @@ Building modern web interfaces with clean code and great user experience.
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KosimovM&theme=tokyo-night"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:qosimov.qosimovmm622@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
@@ -84,11 +75,10 @@ Building modern web interfaces with clean code and great user experience.
 <a href="https://www.linkedin.com/in/м-qosimov-7bb6013a3/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-💡 Focused on frontend today — building the future step by step.
+💡 Focused on TypeScript & Frontend — building type-safe, scalable apps.
 </p>
