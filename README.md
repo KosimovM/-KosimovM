@@ -1,11 +1,10 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Qosimov%20Yusufjon&desc=Frontend%20Enginer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Qosimov%20Yusufjon&desc=Frontend%20Engineer" />
 </p>
 
 <p align="center">
-  Talaba & Frontend Enginer from Tajikistan<br/>
+  🎓 Student & Frontend Developer from Tajikistan <br/>
   HTML • CSS • JavaScript • TypeScript • React • Next.js
 </p>
 
@@ -27,32 +26,31 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **student focused on frontend development**.  
-I enjoy building **interactive, responsive, and user-friendly web applications** using modern web technologies.
+I am a **frontend-focused student developer** who enjoys building **modern, responsive, and user-friendly web applications** using modern web technologies.
 
 ---
 
-## 🎯 What I’m Looking For
-- Frontend internship or junior frontend opportunities  
-- Real-world projects to gain experience  
-- Collaboration with other developers  
-- Continuous learning and growth in frontend engineering  
+## 🎯 Goals
+- Find a **Frontend Internship / Junior Frontend Role**
+- Work on **real-world projects**
+- Collaborate with other developers
+- Continue improving **JavaScript, TypeScript, and React skills**
 
 ---
 
 ## 💡 Frontend Philosophy
-- Clean and readable code over complexity  
-- UI should be simple, fast, and accessible  
-- Responsive design is not optional  
-- Learning never stops in frontend development  
+- Clean and readable code  
+- Fast and simple user interfaces  
+- Responsive design for every device  
+- Continuous learning and improvement  
 
 ---
 
-## 🔭 Currently
-- Practicing **React** and **Next.js**  
-- Building personal frontend projects  
-- Improving UI/UX and clean code skills  
-- Learning advanced JavaScript & TypeScript patterns  
+## 🔭 Currently Learning
+- ⚛️ React ecosystem
+- ▲ Next.js framework
+- 🧠 Advanced JavaScript & TypeScript
+- 🎨 Better UI/UX practices
 
 ---
 
@@ -63,14 +61,13 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 
 ---
 
-## 📌 Projects & Learning
-- Personal websites and UI  components  
-- Small interactive apps with React & Next.js  
-- Writing clean, maintainable, and scalable frontend code  
+## 📌 Projects
+- Personal websites
+- UI components and layouts
+- Small interactive React applications
 
 ---
 
 <p align="center">
-  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub><br/>
-  <sub>Focused on frontend today — building the future step by step.</sub>
+  <sub>Focused on frontend — building, learning, and improving every day.</sub>
 </p>
