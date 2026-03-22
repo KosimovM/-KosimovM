@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4facfe,100:00f2fe&text=Qosimov%20Yusufjon&desc=TypeScript%20Frontend%20Developer&fontSize=45&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4facfe,100:00f2fe&text=Qosimov%20Yusuf&desc=TypeScript%20Frontend%20Developer&fontSize=45&fontAlignY=40"/>
 </p>
 
 <h3 align="center">TypeScript & Frontend Developer from Tajikistan 🇹🇯</h3>
