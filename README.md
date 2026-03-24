@@ -44,7 +44,8 @@ I build modern, scalable, and type-safe web applications using React, Next.js, a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosimovM&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?  
+    username=KosimovM&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css"/>
 </p>
 
 ---
