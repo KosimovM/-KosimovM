@@ -6,7 +6,7 @@
 <h3 align="center">TypeScript Frontend Developer from Tajikistan 🇹🇯</h3>
 
 <p align="center">
-I build modern, scalable, and type-safe web applications using React, Next.js, and best coding practices.
+I build modern, scalable, and type-safe web applications using React  and Next.js, and best coding practices.
 </p>
 
 ---
