@@ -37,26 +37,7 @@ I build modern, scalable, and type-safe web applications using React  and Next.j
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KosimovM&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?  
-    username=KosimovM&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KosimovM&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
