@@ -1,61 +1,82 @@
 <!-- ===== Banner ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:1a1a2e,100:00f2fe&text=Qosimov%20Yusuf&desc=TypeScript%20Engineer%20•%20Frontend%20Architecture&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f2027,100:00f2fe&text=Qosimov%20Yusuf&desc=Frontend%20Engineer%20•%20System%20Thinker%20•%20TypeScript&fontSize=52&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<h3 align="center">⚡ I build fast, scalable, and production-grade frontend systems</h3>
+<h3 align="center">⚡ Engineering scalable systems, not just interfaces</h3>
 
 <p align="center">
-Frontend Engineer from Tajikistan 🇹🇯 focused on performance, clean architecture, and real-world applications.
+Frontend Engineer from Tajikistan 🇹🇯 focused on building high-performance, production-grade systems with strong architectural foundations.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Professional Summary
 
-* 🚀 TypeScript-first Frontend Engineer
-* ⚛️ Building scalable applications with **React & Next.js**
-* 🧠 Focused on **architecture, performance & maintainability**
-* 🎯 Writing code that scales — not just works
-* 🔥 Discipline, consistency, growth mindset
+Frontend Engineer with a strong focus on **TypeScript, system architecture, and scalable frontend systems**.
+I approach development as engineering — designing predictable, maintainable, and high-performance applications.
+
+* 🧠 System-thinking mindset — I see beyond UI
+* ⚛️ Deep focus on **React & Next.js ecosystems**
+* 🏗 Building **modular, scalable architectures**
+* 🎯 Delivering production-ready solutions, not prototypes
 
 ---
 
-# 🧠 What I Actually Do
+# 🎯 Current Focus
 
-* ⚡ Build **real-world projects**, not tutorials
-* 🏗 Design **scalable frontend architecture**
-* 🧩 Solve complex UI problems with clean solutions
-* 🚀 Optimize apps for **speed & performance**
-* 🎨 Craft modern, responsive, user-focused interfaces
+* ⚡ Advanced frontend architecture & performance optimization
+* 🧩 Deep TypeScript patterns (strict typing, generics, scalability)
+* 🏗 Scalable design systems & reusable UI architecture
+* 🤖 AI-powered frontend integrations & smart UX
+* 🚀 Real-world applications with measurable impact
+
+---
+
+# 🧠 Core Competencies
+
+* ⚛️ **Frontend Engineering** (React, Next.js, TypeScript)
+* 🧩 **Advanced Type Systems** (Generics, Utility Types, Strict Mode)
+* 🏗 **Architecture & Scalability** (modular systems, separation of concerns)
+* 📦 **State Management** (Zustand, Redux, server-state patterns)
+* 🎨 **UI Engineering** (design systems, responsive, pixel-perfect UI)
+* ⚡ **Performance Optimization** (render control, lazy loading, memoization)
+* 🔗 **API Integration & Data Flow Design**
+* 🧠 **Problem Solving & System Design Thinking**
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,sass,js,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,sass,git,github,vscode"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 📂 Featured Work
 
-* 🔹 **Project Name 1** — Scalable React app with clean architecture
-* 🔹 **Project Name 2** — Next.js production-ready website
-* 🔹 **Project Name 3** — Advanced UI system with TypeScript
+### 🚀 Production Applications
 
-> ⚠️ Replace with your real projects — this section is your strongest weapon.
+* 🔹 **PrepMind AI** — AI-powered SaaS platform (2,000+ users)
+  Focus: architecture, performance, scalable frontend systems
+
+### 🧠 Systems & Experiments
+
+* 🔹 **AI Assistant System** — modular AI workflows & structured logic
+* 🔹 **Frontend Architecture Templates** — scalable project foundations
+
+> I focus on building systems that solve real problems, not demo projects.
 
 ---
 
-# 📈 Mindset
+# 📈 Engineering Philosophy
 
 <p align="center">
-No shortcuts.<br/>
-Only real skills.<br/>
-Only real results.
+Clarity over complexity.<br/>
+Architecture over shortcuts.<br/>
+Performance is a requirement, not a feature.
 </p>
 
 ---
@@ -83,5 +104,5 @@ Only real results.
 ---
 
 <p align="center">
-⚡ From code to real impact.
+⚡ From frontend to systems thinking.
 </p>
