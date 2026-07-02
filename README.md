@@ -1,49 +1,49 @@
 <!-- ===== Banner ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f2027,100:00f2fe&text=Qosimov%20Yusuf&desc=Frontend%20Engineer%20•%20System%20Thinker%20•%20TypeScript&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0f2027,100:00f2fe&text=Qosimov%20Yusuf&desc=Frontend%20Engineer%20•%20System%20Architecture%20•%20TypeScript&fontSize=52&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<h3 align="center">⚡ Engineering scalable systems, not just interfaces</h3>
+<h3 align="center">⚡ I design systems that scale, perform, and last</h3>
 
 <p align="center">
-Frontend Engineer from Tajikistan 🇹🇯 focused on building high-performance, production-grade systems with strong architectural foundations.
+Frontend Engineer from Tajikistan 🇹🇯 building high-performance, production-grade applications with a strong focus on architecture, scalability, and real-world impact.
 </p>
 
 ---
 
-# 👨‍💻 Professional Summary
+# 👨‍💻 Who I Am
 
-Frontend Engineer with a strong focus on **TypeScript, system architecture, and scalable frontend systems**.
-I approach development as engineering — designing predictable, maintainable, and high-performance applications.
+I am a **TypeScript-first Frontend Engineer** who thinks beyond UI.
+I design and build **scalable systems**, not just interfaces.
 
-* 🧠 System-thinking mindset — I see beyond UI
-* ⚛️ Deep focus on **React & Next.js ecosystems**
-* 🏗 Building **modular, scalable architectures**
-* 🎯 Delivering production-ready solutions, not prototypes
-
----
-
-# 🎯 Current Focus
-
-* ⚡ Advanced frontend architecture & performance optimization
-* 🧩 Deep TypeScript patterns (strict typing, generics, scalability)
-* 🏗 Scalable design systems & reusable UI architecture
-* 🤖 AI-powered frontend integrations & smart UX
-* 🚀 Real-world applications with measurable impact
+* 🧠 System-thinking mindset
+* ⚛️ Deep expertise in **React & Next.js**
+* 🏗 Focused on **architecture, maintainability & performance**
+* 🎯 Building products that are **used, not just shown**
 
 ---
 
-# 🧠 Core Competencies
+# 🎯 Current Direction
 
-* ⚛️ **Frontend Engineering** (React, Next.js, TypeScript)
-* 🧩 **Advanced Type Systems** (Generics, Utility Types, Strict Mode)
-* 🏗 **Architecture & Scalability** (modular systems, separation of concerns)
-* 📦 **State Management** (Zustand, Redux, server-state patterns)
-* 🎨 **UI Engineering** (design systems, responsive, pixel-perfect UI)
-* ⚡ **Performance Optimization** (render control, lazy loading, memoization)
-* 🔗 **API Integration & Data Flow Design**
-* 🧠 **Problem Solving & System Design Thinking**
+* ⚡ Advanced frontend architecture (modular & scalable systems)
+* 🧩 Deep TypeScript (strict typing, generics, advanced patterns)
+* 🏗 Design systems & reusable UI infrastructure
+* 🤖 AI-powered features & intelligent UX
+* 🚀 Production-grade applications with real users
+
+---
+
+# 🧠 Core Strengths
+
+* ⚛️ Frontend Engineering (**React, Next.js, TypeScript**)
+* 🧩 Advanced Type Systems (Generics, Utility Types, strict architecture)
+* 🏗 Scalable Architecture (modular design, separation of concerns)
+* 📦 State Management (Zustand, Redux, server-state patterns)
+* 🎨 UI Engineering (design systems, responsive UI, UX precision)
+* ⚡ Performance Optimization (render control, lazy loading, memoization)
+* 🔗 API Design & Integration
+* 🧠 Problem Solving & System Design Thinking
 
 ---
 
@@ -55,19 +55,43 @@ I approach development as engineering — designing predictable, maintainable, a
 
 ---
 
-# 📂 Featured Work
+# 📂 Featured Projects
 
-### 🚀 Production Applications
+### 🚀 PrepMind AI
 
-* 🔹 **PrepMind AI** — AI-powered SaaS platform (2,000+ users)
-  Focus: architecture, performance, scalable frontend systems
+🔗 https://prepmindai.academy
 
-### 🧠 Systems & Experiments
+AI-powered SaaS platform with **2,000+ active users**
 
-* 🔹 **AI Assistant System** — modular AI workflows & structured logic
-* 🔹 **Frontend Architecture Templates** — scalable project foundations
+* Scalable architecture
+* AI-assisted evaluation system
+* Subscription & analytics system
+* Production deployment & performance optimization
 
-> I focus on building systems that solve real problems, not demo projects.
+---
+
+### 🧠 AI Systems & Experiments
+
+* Modular AI assistant systems
+* Structured reasoning workflows
+* Automation pipelines
+
+---
+
+### ⚛️ Frontend Systems
+
+* Scalable React architecture templates
+* Component-driven UI systems
+* Performance-focused applications
+
+---
+
+# 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpha04-ash&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha04-ash&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -75,8 +99,8 @@ I approach development as engineering — designing predictable, maintainable, a
 
 <p align="center">
 Clarity over complexity.<br/>
-Architecture over shortcuts.<br/>
-Performance is a requirement, not a feature.
+Systems over quick fixes.<br/>
+Performance is non-negotiable.
 </p>
 
 ---
@@ -104,5 +128,5 @@ Performance is a requirement, not a feature.
 ---
 
 <p align="center">
-⚡ From frontend to systems thinking.
+⚡ From frontend development to system engineering.
 </p>
